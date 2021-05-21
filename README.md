@@ -24,7 +24,7 @@ First things first, install matplotlib with ```pip```.
 $ pip install matplotlib
 ```
 
-Then, run ```visualization.py``` py typing this.
+Then, run ```visualization.py``` by typing this.
 ```
 $ python visualization.py
 ```
